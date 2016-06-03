@@ -1,0 +1,6 @@
+C:\Users\Vlad Ilie\Downloads\reseach\Gamepong\Tobi\source\EyeXFramework\bin\Debug\EyeXFramework.dll
+C:\Users\Vlad Ilie\Downloads\reseach\Gamepong\Tobi\source\EyeXFramework\bin\Debug\EyeXFramework.pdb
+C:\Users\Vlad Ilie\Downloads\reseach\Gamepong\Tobi\source\EyeXFramework\bin\Debug\Tobii.EyeX.Client.Net20.dll
+C:\Users\Vlad Ilie\Downloads\reseach\Gamepong\Tobi\source\EyeXFramework\bin\Debug\Tobii.EyeX.Client.Net20.xml
+C:\Users\Vlad Ilie\Downloads\reseach\Gamepong\Tobi\source\EyeXFramework\obj\Debug\EyeXFramework.dll
+C:\Users\Vlad Ilie\Downloads\reseach\Gamepong\Tobi\source\EyeXFramework\obj\Debug\EyeXFramework.pdb

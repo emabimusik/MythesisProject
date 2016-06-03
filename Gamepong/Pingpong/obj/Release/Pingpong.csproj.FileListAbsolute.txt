@@ -1,0 +1,16 @@
+C:\Users\Vlad Ilie\Downloads\reseach\Gamepong\Pingpong\bin\Release\Pingpong.exe.config
+C:\Users\Vlad Ilie\Downloads\reseach\Gamepong\Pingpong\bin\Release\Properties\EyeXFramework.dll
+C:\Users\Vlad Ilie\Downloads\reseach\Gamepong\Pingpong\bin\Release\Resources\ball.jpg
+C:\Users\Vlad Ilie\Downloads\reseach\Gamepong\Pingpong\bin\Release\Properties\Tobii.EyeX.Client.dll
+C:\Users\Vlad Ilie\Downloads\reseach\Gamepong\Pingpong\bin\Release\Properties\Tobii.EyeX.Client.Net20.dll
+C:\Users\Vlad Ilie\Downloads\reseach\Gamepong\Pingpong\bin\Release\Utilities.cs
+C:\Users\Vlad Ilie\Downloads\reseach\Gamepong\Pingpong\bin\Release\Pingpong.exe
+C:\Users\Vlad Ilie\Downloads\reseach\Gamepong\Pingpong\bin\Release\Pingpong.pdb
+C:\Users\Vlad Ilie\Downloads\reseach\Gamepong\Pingpong\bin\Release\EyeXFramework.dll
+C:\Users\Vlad Ilie\Downloads\reseach\Gamepong\Pingpong\bin\Release\Tobii.EyeX.Client.Net20.dll
+C:\Users\Vlad Ilie\Downloads\reseach\Gamepong\Pingpong\obj\Release\Pingpong.Form1.resources
+C:\Users\Vlad Ilie\Downloads\reseach\Gamepong\Pingpong\obj\Release\Pingpong.Properties.Resources.resources
+C:\Users\Vlad Ilie\Downloads\reseach\Gamepong\Pingpong\obj\Release\Pingpong.SettingsForm.resources
+C:\Users\Vlad Ilie\Downloads\reseach\Gamepong\Pingpong\obj\Release\Pingpong.csproj.GenerateResource.Cache
+C:\Users\Vlad Ilie\Downloads\reseach\Gamepong\Pingpong\obj\Release\Pingpong.exe
+C:\Users\Vlad Ilie\Downloads\reseach\Gamepong\Pingpong\obj\Release\Pingpong.pdb
